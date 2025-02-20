@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "313973046644",
+    "project_id": "app-catalogo-livro",
+    "storage_bucket": "app-catalogo-livro.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313973046644:android:2e3415abecdf9415f74021",
+        "android_client_info": {
+          "package_name": "com.example.app_catalogo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXUA0NAJ-SOsU3vzoraqYWrnP1GjIiAB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
